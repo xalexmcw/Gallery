@@ -9,4 +9,4 @@ for (var i = 0; i < slike.length; i++) {
 function preview() {
     var imgAttr = this.getAttribute('src');
     current.setAttribute('src', imgAttr);
-}
+}  
